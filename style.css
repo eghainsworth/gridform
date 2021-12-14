@@ -452,7 +452,7 @@ p {
   text-align: center;
   position: relative;
   padding: 5rem;
-  transition: transform 3sec;
+  transition: transform 3s;
   /* background: #273533; */
   transform-style: preserve-3d;
 }
@@ -523,7 +523,7 @@ p {
 .card__back {
   transform: rotateY(.5turn);
   color: var(--clr);
-  background: #333;
+  background: #90815F;
 }
 
 
